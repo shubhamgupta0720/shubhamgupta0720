@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, My name is Shubham Gupta</h1>
-<h3 align="left">I'm a final year Electronics and Telecommunication Engineering student, highly interested in Backend development, Data Analytics and Automation projects along with problem solving and zeal to learn different technologies.</h3>
+<h3 align="left">I'm a final year Electronics and Telecommunication Engineering student, highly interested in Backend Development, Data Analytics and Automation projects along with problem solving and zeal to learn different technologies.</h3>
 
 - 📫 Reach me on Linkedin **https://www.linkedin.com/in/shubham-gupta-2143091b2/**
 
