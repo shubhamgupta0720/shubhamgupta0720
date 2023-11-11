@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, My name is Shubham Gupta</h1>
-<h3 align="left">I'm a Senior Analyst at Capgemini, highly interested in Full Stack Development, Data Analytics and Automation projects along with problem solving and zeal to learn different technologies.</h3>
+<h3 align="left">I'm an Associate Consultant at Capgemini, highly interested in Full Stack Development, Data Analytics and Automation projects along with problem solving and zeal to learn different technologies.</h3>
 
 <h3 align="left">CP Profiles:</h3>
 <p align="left">
